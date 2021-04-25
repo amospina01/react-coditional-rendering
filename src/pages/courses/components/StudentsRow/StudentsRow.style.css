@@ -1,0 +1,10 @@
+.StudentsRow-container{
+    border: 2px solid turquoise;
+    text-align: left;
+    margin-bottom: 2px;
+    font-weight: bold;
+    font-size: 11px;
+    white-space: pre-wrap;
+    
+    
+}
